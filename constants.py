@@ -41,4 +41,3 @@ TASK_POSITIONS = {
     "SERVING_WINDOW": (0, 2),
 }
 
-
